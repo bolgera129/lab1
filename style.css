@@ -1,0 +1,28 @@
+*{
+    box-sizing: content-box;
+}
+
+img {
+    width: 500px;
+}
+
+#generate{
+   background-color: maroon;
+   outline: maroon;
+   width: 90%;
+   margin: 10px;
+}
+
+#content p{
+    padding: 10px;
+}
+
+
+#column{
+    padding: 5px;
+    margin: 5px;
+}
+
+a:hover{
+    color:maroon;
+}
